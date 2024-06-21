@@ -1,6 +1,6 @@
-# Single-cell CUT&Tag InDrop pipeline
+# Single-cell CUT&Tag 10X pipeline
 
-This data engineering pipeline is designed to treat single-cell CUT&Tag InDrop
+This data engineering pipeline is designed to treat single-cell CUT&Tag 10X
 with protocol design from the Institut Curie SingleCellOmics Platform and Vallot Lab.
 The dataset starts from raw BCL sequencing files to exploitable output such
 as count matrices, coverage file and report.  
